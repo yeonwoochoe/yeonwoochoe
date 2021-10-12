@@ -5,7 +5,7 @@
 
 <br>
 
-![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoochoe&show_icons=true)
+![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoochoe&theme=nightowl&show_icons=true)
 
 
 <br/>
