@@ -1,7 +1,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=9738FF&height=350&section=header&text=🍒YeonWoo&fontSize=65&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=9738FF&height=350&section=header&text=🤍YeonWoo🤍&fontSize=65&fontColor=FFFFFF)
 
 <br>
 
@@ -9,16 +9,13 @@
 
 
 <br/>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonwoochoe%2Fyeonwoochoe&count_bg=%23EEDFFF&title_bg=%23C592FF&icon=opsgenie.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 <h1>🥳Yeon Woo 🥳</h3><br/>
 Hello, I'm Yeonwoo.👋<br/>
 My goal is to make a positive impact on society.<br/>
 Have a nice day<br/>
-
-
-<br/><br/>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonwoochoe%2Fyeonwoochoe&count_bg=%23EEDFFF&title_bg=%23C592FF&icon=opsgenie.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <br/><br/>
