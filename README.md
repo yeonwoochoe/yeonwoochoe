@@ -1,11 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
+<div align=center>
 
-<div align = "center">
+![header](https://capsule-render.vercel.app/api?type=wave&color=9738FF&height=350&section=header&text=🍒YeonWoo&fontSize=65&fontColor=FFFFFF)
+
+<br>
+
+[![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoochoe)](https://github.com/yeonwoochoe/github-readme-stats)
 
 <br/>
 <h1>🥳Yeon Woo 🥳</h3><br/>
-Hello, I'm Yeonwoo.<br/>
+Hello, I'm Yeonwoo.👋<br/>
 My goal is to make a positive impact on society.<br/>
 Have a nice day<br/>
 
