@@ -5,7 +5,8 @@
 
 <br>
 
-[![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoochoe)](https://github.com/yeonwoochoe/github-readme-stats)
+![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoochoe&show_icons=true)
+
 
 <br/>
 <h1>🥳Yeon Woo 🥳</h3><br/>
